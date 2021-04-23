@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#adding a comment a api.py 
+api.py
+
 # C extensions
 *.so
 
